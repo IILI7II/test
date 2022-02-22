@@ -1,6 +1,6 @@
 +--------------------------------------------------------+
 |Isso é um teste de criacao e clonagem de diretorios e   |
-|arquivos usando o github                                |
+|arquivos usando repositórios do github                  |
 +--------------------------------------------------------+
                                                          
 $ apt update                                             
