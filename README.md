@@ -1,6 +1,6 @@
 +--------------------------------------------------------+
-|Este é um test de criacao e clonagem de diretorios      |
-|usando o github                                         |
+|Isso é um teste de criacao e clonagem de diretorios e   |
+|arquivos usando o github                                |
 +--------------------------------------------------------+
                                                          
 $ apt update                                             
@@ -12,6 +12,6 @@ $ cd test
 $ lua lol.lua                                            
                                                          
 +--------------------------------------------------------+
-|Esta api foi desenvolvida por L7 e ainda está em        |
-|desenvolvimento...                                      |
+|Essa api foi codificada por L7 e ainda está em          |
+|desenvolvimento, contendo nenhuma função específica.    |
 +--------------------------------------------------------+
